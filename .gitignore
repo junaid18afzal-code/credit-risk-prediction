@@ -5,3 +5,6 @@ venv/
 .env
 .ipynb_checkpoints/
 .DS_Store
+03-data-preprocessing/data/
+04-feature-engineering/data/
+05-model-training/models/
